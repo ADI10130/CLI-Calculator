@@ -26,7 +26,7 @@ Enter second number: 5
 
 Result: 15
 
-## 👨‍💻 Author
-Adi - Python Developer Intern 🚀
+##  Author
+Aditya - Python Developer Intern 
 ## 🔗 Repository Link
 [GitHub Repo] https://github.com/ADI10130/CLI-Calculator
