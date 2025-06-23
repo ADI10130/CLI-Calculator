@@ -19,7 +19,9 @@ Choose an operation:
 5. Exit
 
 Enter choice (1-5): 1
+
 Enter first number: 10
+
 Enter second number: 5
 Result: 15
 
